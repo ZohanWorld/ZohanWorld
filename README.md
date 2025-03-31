@@ -3,7 +3,7 @@
 I do some cool stuff in ✨ web ✨
 ![Static Badge](https://img.shields.io/badge/Telegram-ZohanWorld-blue?link=https%3A%2F%2Ft.me%2Fzohan_world)
 
-Founder of [Stalcraft Backpack](https://stalcraft-backpack.ru/searcher)
+Founder of [Stalcraft Backpack](https://stalcraft-backpack.ru)
 
 ## Favorite Tech
 
